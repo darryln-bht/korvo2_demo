@@ -2,5 +2,5 @@ description: BSP Display and camera example
 
 dependencies:
   esp32_s3_korvo_2:
-    version: ">=0.1"
+    # version: ">=0.1"
     override_path: "../../../bsp/esp32_s3_korvo_2"

@@ -2,5 +2,5 @@ description: BSP Display example
 
 dependencies:
   esp32_s3_korvo_2:
-    version: "*"
+    # version: ">=0.1"
     override_path: "../../../bsp/esp32_s3_korvo_2"
