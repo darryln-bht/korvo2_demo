@@ -9,29 +9,46 @@ tags:
 dependencies:
   idf: ">=4.4.5"
   esp_lcd_ili9341: 
+    # version: "^1"
     override_path: "../../components/lcd/esp_lcd_ili9341"
 
   esp_lcd_touch: 
+    # version: "^1"
     override_path: "../../components/lcd_touch/esp_lcd_touch"
 
   esp_lcd_touch_tt21100: 
+    # version: "^1"
     override_path: "../../components/lcd_touch/esp_lcd_touch_tt21100"
 
   esp_io_expander:
+    # version: "^1"
     override_path: "../../components/io_expander/esp_io_expander"
 
   esp_io_expander_tca9554:
+    # version: "^1"
     override_path: "../../components/io_expander/esp_io_expander_tca9554"
 
   esp_codec_dev:
+    # version: "^1.0.2"
     override_path: "../../components/esp_codec_dev"
 
   esp32-camera:
+    # version: "^2.0.2"
+    # public: true
     override_path: "../../components/esp32-camera"
 
   button:
+    # version: ">=2.5,<4.0"
+    # public: true
     override_path: "../../components/button"
 
   esp_lvgl_port:
+    # version: "^2"
+    # public: true
     override_path: "../../components/esp_lvgl_port"
+
+  lvgl/lvgl:
+    version: ">=8,<10"
+    public: true
+
 
