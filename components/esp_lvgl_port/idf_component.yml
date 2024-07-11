@@ -1,0 +1,6 @@
+description: ESP LVGL port
+dependencies:
+  idf: ">=4.4"
+  lvgl/lvgl:
+    version: ">=8,<10"
+    public: true

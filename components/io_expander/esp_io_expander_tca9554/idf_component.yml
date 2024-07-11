@@ -1,0 +1,5 @@
+description: ESP IO Expander - TCA9554(A)
+dependencies:
+  idf: ">=4.4.2"
+  esp_io_expander:
+    override_path: "../esp_io_expander"

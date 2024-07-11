@@ -1,0 +1,6 @@
+dependencies:
+  cmake_utilities:
+    version: 0.*
+  idf:
+    version: '>=4.0'
+description: GPIO and ADC button driver

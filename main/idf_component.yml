@@ -1,0 +1,5 @@
+description: Korvo-2 "kitchen sink" demo
+
+dependencies:
+  esp32_s3_korvo_2:
+    override_path: "../bsp/esp32_s3_korvo_2"

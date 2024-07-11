@@ -1,0 +1,6 @@
+description: ESP LCD Touch TT21100 - touch controller TT21100
+dependencies:
+  idf: ">=4.4.2"
+  esp_lcd_touch: 
+    override_path: "../esp_lcd_touch"
+

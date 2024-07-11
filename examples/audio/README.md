@@ -1,6 +1,5 @@
-# korvo2_demo
-
 # BSP: Audio example
+
 This example demonstrates capabilities of Audio board of ESP32-S3-Korvo-2.
 
 ## Audio codecs
@@ -25,5 +24,6 @@ Playing check box on display will be checked for the playing time.
 Increases/decreases playback volume by 5/100.
 Current playback volume is depicted on display.
 
-# BSP: Display example. 
-Sets up the display and shows Espressif's logo and label.
+<a href="https://espressif.github.io/esp-launchpad/?flashConfigURL=https://espressif.github.io/esp-bsp/config.toml&app=audio">
+    <img alt="Try it with ESP Launchpad" src="https://espressif.github.io/esp-launchpad/assets/try_with_launchpad.png" width="250" height="70">
+</a>
